@@ -37,3 +37,5 @@ for i in range(high-low+1):
 print(mincost)
 
 print("hi")
+
+print("bye")
